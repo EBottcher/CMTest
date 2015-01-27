@@ -1,0 +1,5 @@
+c:\Users\Eduardo\documents\visual studio 2012\Projects\CMTest\CMTest.Business\bin\Debug\CMTest.Business.dll
+c:\Users\Eduardo\documents\visual studio 2012\Projects\CMTest\CMTest.Business\bin\Debug\CMTest.Business.pdb
+c:\Users\Eduardo\documents\visual studio 2012\Projects\CMTest\CMTest.Business\obj\Debug\CMTest.Business.dll
+c:\Users\Eduardo\documents\visual studio 2012\Projects\CMTest\CMTest.Business\obj\Debug\CMTest.Business.pdb
+C:\Users\Eduardo\documents\visual studio 2012\Projects\CMTest\CMTest.Business\obj\Debug\CMTest.Business.csprojResolveAssemblyReference.cache

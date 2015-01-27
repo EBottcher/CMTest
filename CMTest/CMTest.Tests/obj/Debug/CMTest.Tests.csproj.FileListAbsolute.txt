@@ -1,0 +1,7 @@
+c:\Users\Eduardo\documents\visual studio 2012\Projects\CMTest\CMTest.Tests\bin\Debug\CMTest.Tests.dll
+c:\Users\Eduardo\documents\visual studio 2012\Projects\CMTest\CMTest.Tests\bin\Debug\CMTest.Tests.pdb
+c:\Users\Eduardo\documents\visual studio 2012\Projects\CMTest\CMTest.Tests\bin\Debug\CMTest.Business.dll
+c:\Users\Eduardo\documents\visual studio 2012\Projects\CMTest\CMTest.Tests\bin\Debug\CMTest.Business.pdb
+c:\Users\Eduardo\documents\visual studio 2012\Projects\CMTest\CMTest.Tests\obj\Debug\CMTest.Tests.csprojResolveAssemblyReference.cache
+c:\Users\Eduardo\documents\visual studio 2012\Projects\CMTest\CMTest.Tests\obj\Debug\CMTest.Tests.dll
+c:\Users\Eduardo\documents\visual studio 2012\Projects\CMTest\CMTest.Tests\obj\Debug\CMTest.Tests.pdb
